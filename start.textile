@@ -1,0 +1,8 @@
+---
+title: Wie alles begann
+layout: default
+---
+
+h2(#introduction).  Ein kurzer Rückblick
+
+Nach das Team 2015 eine schöpferischen Pause eingelegt hat, haben wir uns für 2016 wieder vorgenommen, den Molliser und anderen Film-Interessierten drei gemütliche Abende zu offerieren.
