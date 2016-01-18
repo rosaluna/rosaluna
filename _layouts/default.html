@@ -1,0 +1,53 @@
+<html>
+  <head>
+  <meta content='text/html;charset=UTF-8' http-equiv='Content-Type'>
+    <title>Rosa Luna &mdash; {{ page.title }}</title>
+    <style type='text/css'>
+      @import 'css/default.css';
+      @import 'css/syntax.css';
+    </style>
+    <style media='print' type='text/css'>
+      @import 'css/print.css';
+    </style>
+    <meta content='Rosa Luna' name='subject'>
+    <link href='images/favicon.png' rel='shortcut icon'>
+  </head>
+  <body>
+    <div id='wrap'>
+      <div id='header'>
+        <a href='https://github.com/rosaluna/' title="Rosa Luna: Das Molliser Freiluftkino"><img width="150" height="65" alt='Kinoabend' src='images/kinoabend.png'></a>
+        <div align='right' class='tagline'>Rosa Luna: Das Molliser Freiluftkino</div>
+      </div>
+      <div id='pages'>
+        <ol class='toc'>
+          <li>Über uns
+            <ol class="toc">
+              <li><a href='index.html'>Programm</a></li>
+              <li><a href='team.html'>Wer dahinter steckt</a></li>
+              <li><a href='sponsoren.html'>Werde Sponsor</a></li>
+            </ol>
+          </li>
+          <li>Wissenswertes
+            <ol class="toc">
+              <li><a href='start.html'>Wie alles begann</a></li>
+              <li><a href='1995.html'>1995-1999</a></li>
+              <li><a href='2000.html'>2000-2004</a></li>
+              <li><a href='2005.html'>2005-2009</a></li>
+              <li><a href='2010.html'>2010-2014</a></li>
+            </ol>
+          </li>
+          <li>Interna
+            <ol class="toc">
+              <li><a href='todo.html'>An was man jedes Jahr denken muss</a></li>
+            </ol>
+          </li>
+        </ol>
+      </div>
+      <div id='content'>
+        <h1 id='{{ replace(page.title | downcase | ' ', '_') }}'>{{ page.title }}</h1>
+        {{ content }}
+      </div>
+      <div id='footer'>Copyright &copy; 2016 Niklaus Giger</div>
+    </div>
+  </body>
+</html>
