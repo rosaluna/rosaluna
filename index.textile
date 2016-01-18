@@ -1,5 +1,5 @@
 ---
-title: Rosa-Luna Programm 2016
+title: Programm 2016
 layout: default
 ---
 
@@ -16,8 +16,3 @@ Merken Sie sich also folgende Daten:
 * Samstag 20. August 2016
 
 Filme und Musik werden noch ausgewählt und werden anfangs März hier aufgeschaltet.
-
-<p  align="right" >
-<img width="512" src="https://raw.githubusercontent.com/rosaluna/rosaluna/gh-pages/images/kinoabend.jpg" alt="Musik & Film" />
-</p>
-
