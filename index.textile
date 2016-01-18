@@ -1,5 +1,5 @@
 ---
-title: Programm 2016
+title: Rosa-Luna Programm 2016
 layout: default
 ---
 
@@ -17,11 +17,7 @@ Merken Sie sich also folgende Daten:
 
 Filme und Musik werden noch ausgewählt und werden anfangs März hier aufgeschaltet.
 
-
-<p><img src="http://rosaluna.github.io/rosaluna/kinoabend.png" alt="Musik & Film" /></p>
-
-h2(#notices).  Ehre wem Ehre gebührt
-
-Das Rosa Luna wurde 1996 von den damaligen Bewohner des Rosenhofs in Mollis ins Leben gerufen. Giorgio Hösli haben wir das schöne Layout des Flyers und der Plakate zu verdanken.
-Barbara Sulzer hat das Ganze mit viel Liebe, Gesprächen, Einladungen, Backen und Telefonen zusammen gehalten.
+<p  align="right" >
+<img width="512" src="https://raw.githubusercontent.com/rosaluna/rosaluna/gh-pages/images/kinoabend.jpg" alt="Musik & Film" />
+</p>
 
