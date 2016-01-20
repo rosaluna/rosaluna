@@ -1,8 +1,0 @@
----
-title: Rückblick auf das Programm 1995 bis 1999
-layout: default
----
-
-h2(#introduction).  Das Programm von 1995
-
-* Datum, Film, Musik, Fotos?
