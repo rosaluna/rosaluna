@@ -1,3 +1,10 @@
+h2. master branches
+
+h2. Used for flyers, etc
+
+
+h2. Notes
+
 # developers notice
 # https://help.github.com/articles/using-jekyll-with-pages
 # bundle exec jekyll serve
