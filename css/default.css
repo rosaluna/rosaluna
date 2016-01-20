@@ -16,7 +16,6 @@
 
 
 body {
-  background-color: #fff;
   color: #000;
   font-family: "Helvetica Neue", "DejaVu Sans", "Verdana", sans-serif;
   text-align: center;
@@ -111,16 +110,30 @@ th, thead td {
   text-align: left;
 }
 
-
 #wrap{
   margin: 1em auto 2em auto;
   text-align: left;
   width: 65em;
 }
 
-
+#after {
+  content: "";
+/* generated with convert rosaluna_joel_cmyk.jpg -size 540x270 logo.png
+ * */
+  background: url('../images/logo.png');
+  background-size: 540px 270px;
+  background-repeat: no-repeat;
+  opacity: 0.3;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
 #header {
   margin: 0 0 3em 18em;
+  left: 180px;
   position: relative;
 }
 
@@ -225,12 +238,11 @@ ol.toc li ol.toc {
 #content .footnote-links dt:after { content: ": " }
 #content .footnote-links dd { }
 
-
 #footer {
   color: #888;
   border-top: 1px solid #ccc;
   font-size: 0.9em;
   padding: 0.3em;
-  margin: 2em 0 3em 0em;
+  margin: 4em 0 3em 0em;
   clear: both;
 }
