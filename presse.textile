@@ -1,0 +1,14 @@
+---
+layout: default
+title: Rosa Luna in der Presse
+---
+
+h2. Was die Zeitungen über uns berichteten
+
+h3. 2013
+
+* "Südostschweiz vom 11.7.201":archiv/sogl_72_2013-07-11.pdf
+
+h3. 2011
+
+* "Glarner Woche vom 10.8.2011":archiv/glarus_nord_2011_08_10.pdf
