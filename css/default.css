@@ -246,3 +246,11 @@ ol.toc li ol.toc {
   margin: 4em 0 3em 0em;
   clear: both;
 }
+
+table.program {
+  font-weight: bold;
+}
+
+td.program {
+  width: 512;
+}
