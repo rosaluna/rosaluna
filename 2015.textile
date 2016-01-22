@@ -1,8 +1,0 @@
----
-title: Rückblick auf das Programm 2015 bis ..
-layout: default
----
-
-h2(#introduction).  Das Programm von 2015
-
-* Datum, Film, Musik, Fotos?
