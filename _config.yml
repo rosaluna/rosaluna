@@ -2,5 +2,6 @@ highlighter: pygments
 safe: true
 # source: <your pages repo>
 # destination: <the build dir>
+markdown: kramdown
 lsi: false
 baseurl: /project-name
