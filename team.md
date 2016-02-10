@@ -3,7 +3,7 @@ layout: default
 title: Wer dahinter steckt
 ---
 
-h1. Die Leute hinter dem Rosenhof
+## Die Leute hinter dem Rosenhof
 
 Das Kino Rosa Luna findet statt, weil sich folgende Leute dafür begeistern konnten:
 

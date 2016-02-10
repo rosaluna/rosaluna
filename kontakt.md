@@ -4,7 +4,7 @@ title: Kontakt
 ---
 
 
-h3. allgemein:
+### allgemein:
 
 Barbara Sulzer
 Vorderdorfstr. 4
@@ -12,7 +12,7 @@ Vorderdorfstr. 4
 Tel. 076 711 39 21
 E-Mail: barbara.sulzer@zalp.ch
 
-h3. interessierte Sponsoren:
+### interessierte Sponsoren:
 
 Niklaus Giger
 Wiesenhoschet 6
@@ -20,7 +20,7 @@ Wiesenhoschet 6
 Tel. 055 612 20 54
 E-Mail: niklaus.giger@member.fsf.org
 
-h3. interessierte Musiker:
+### interessierte Musiker:
 
 Catherine Fritsche
 St. Fridolinsstrasse 3

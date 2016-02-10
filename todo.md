@@ -3,7 +3,7 @@ layout: default
 title: Denkzettel
 ---
 
-h2. Was jedes Jahr wieder neu gemacht werden soll
+## Was jedes Jahr wieder neu gemacht werden soll
 
 * Organisatorisches zum voraus:
 ** Rundmail an Kino Rosa Luna Freunde, Aufruf für Sponsoring 2016  Barbara bis 20. Jan.
@@ -29,7 +29,7 @@ h2. Was jedes Jahr wieder neu gemacht werden soll
 *  Adressverwaltung  Barbara
 *  Buchhaltung Barbara
 
-h2. am Kinotag:
+## am Kinotag:
 
 *  Tafeln an Strasse und Wegweiser im Garten Andreas
 *  Leinwand und Projektor einrichten Frank, Niklaus
@@ -39,7 +39,7 @@ h2. am Kinotag:
 *  Essen kochen  Erika, Heidi, Barbara
 *  Einspringen und Mithelfen wo nötig: Markus, Gabriela
 
-h2. am Abend:
+## am Abend:
 * Filmoperateur Frank, Niklaus
 *  Kasse/ Eintritte  Barbara organisiert
 *  Barbetrieb/Geschirr abwaschen noch offen
@@ -48,7 +48,7 @@ h2. am Abend:
 
 weitere HelferInnen evtl.: Kathrin Landerer, Christoph Zürrer, Fabienne
 
-h2. Werbung
+## Werbung
 
 * Nüüs vu Mullis Programm + Foto  Einsendeschluss: 1. März  an Niklaus Giger
 * Zeitungsartikel Südostschweiz (Randspalte?)
