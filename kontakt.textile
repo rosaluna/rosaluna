@@ -1,0 +1,29 @@
+---
+layout: default
+title: Kontakt
+---
+
+
+h3. allgemein:
+
+Barbara Sulzer
+Vorderdorfstr. 4
+8753 Mollis
+Tel. 076 711 39 21
+E-Mail: barbara.sulzer@zalp.ch
+
+h3. interessierte Sponsoren:
+
+Niklaus Giger
+Wiesenhoschet 6
+8753 Mollis,
+Tel. 055 612 20 54
+E-Mail: niklaus.giger@member.fsf.org
+
+h3. interessierte Musiker:
+
+Catherine Fritsche
+St. Fridolinsstrasse 3
+8750 Glarus
+Tel. 055 640 13 43
+E-Mail: cafritsche@bluewin.ch
