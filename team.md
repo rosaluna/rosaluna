@@ -9,7 +9,7 @@ Das Kino Rosa Luna findet statt, weil sich folgende Leute dafür begeistern konn
 
 * Barbara Sulzer
 * Giorgio Hösli
-* Gabriela Reust
+* Gabriela Schauer
 * Catherine Fritschi
 * Frank Eberhard
 * Heidi Eberhard
