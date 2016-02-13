@@ -25,5 +25,5 @@ E-Mail: niklaus.giger@member.fsf.org
 Catherine Fritsche
 St. Fridolinsstrasse 3
 8750 Glarus
-Tel. 055 640 13 43
+Tel. 055 640 13 09
 E-Mail: cafritsche@bluewin.ch
