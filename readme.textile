@@ -4,6 +4,9 @@
 # test your output at http://0.0.0.0:4000/project-name/
 # (after switching to the gh-pages
 
+# Images richtig rotieren
+sudo apt-get install exiftran; cd images/2016 && exiftran -ai *.JPG
+
 Zum Konvertieren folgende Aufrufe gebraucht
 
 * Zusammenfassen mehrere JPG in eine PDF

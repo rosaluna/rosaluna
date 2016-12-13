@@ -1,0 +1,29 @@
+<html>
+  <head>
+  <meta content='text/html;charset=UTF-8' http-equiv='Content-Type'>
+    <title>Rosa Luna &mdash; {{ page.title }}</title>
+    <style type='text/css'>
+      @import 'css/default.css';
+      @import 'css/syntax.css';
+    </style>
+    <style media='print' type='text/css'>
+      @import 'css/print.css';
+    </style>
+    <meta content='Rosa Luna' name='subject'>
+    <link href='images/favicon.png' rel='shortcut icon'>
+  </head>
+  <body>
+    <div id='wrap'>
+      <div id='pages'>
+
+      <div id='content'>
+        <h1 align='center' id='{{ replace(page.title | downcase | ' ', '_') }}'><img  width="200" src='../logo_rosa_luna.svg' img>{{ page.title }}<img  width="200" src='../logo_rosa_luna.svg' img></h1>
+        {{ content }}
+      </div>
+<!--      <div id='footer'>Copyright &copy; 2016 Niklaus Giger</div>
+-->
+    </div>
+    <dif id='after'>
+    </div>
+  </body>
+</html>

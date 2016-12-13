@@ -9,9 +9,13 @@ Wie gewohnt trifft man sich ab 20 Uhr im Garten des Rosenhofs von Mollis. Musik 
 
 Nach dem Einbruch der Dunkelheit wird gegen 21 Uhr 45 der Film gestartet. Einige Leute nehmen zur Sicherheit ihre Wolldecke selber mit. Bei schlechtem Wetter können wir in die Kirche ausweichen.
 
-Merken Sie sich also folgende Daten:
+2016 traf man sich am
 
 * Samstag 11. Juni 2016
 * Samstag 9. Juli 2016
 * Samstag 20. August 2016
+
+Siehe auch der Bericht der Südostschweiz vom [23. August](images/2016/südostschweiz_23.8.2016.pdf). Ein paar Schnappschüsse findet man unter [Bilder 2016](images/2016/)
+Die Termine für 2017 folgen irgendwann im ersten Quartal 2017.
+
 
