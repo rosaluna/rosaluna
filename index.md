@@ -1,5 +1,5 @@
 ---
-title:            <img  width="512" align='right' src='archiv/Flyer_2016.png' img> Programm 2017
+title:            <img  width="512" align='right' src='archiv/Flyer_2017.png' img> Programm 2017
 layout: default
 ---
 
