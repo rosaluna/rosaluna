@@ -1,8 +1,9 @@
 ---
-title:            Programm 2018<img  width="512" align='right' src='archiv/Flyer_2018.png' img>
-
+title:            Programm 2018
 layout: default
 ---
+
+<img  width="512" align='right' src='archiv/Flyer_2018.png' img>
 
 Auch 2018 offerieren wir den Molliser drei gemütliche Abende.
 
