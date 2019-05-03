@@ -1,11 +1,11 @@
 ---
-title:            Programm 2018
+title:            Programm 2019
 layout: default
 ---
 
-<img  width="512" align='right' src='archiv/Flyer_2018.png' img>
+<img  width="512" align='right' src='archiv/Flyer_2019.png' img>
 
-Auch 2018 offerieren wir den Molliser drei gemütliche Abende.
+Auch 2019 offerieren wir den Molliser drei gemütliche Abende.
 
 Wir treffen uns sich ab 20 Uhr im Garten des Rosenhofs von Mollis. Musik begleitet uns in den Abend und zu allerlei Leckereien geniesst man ein Glas Wein, Sangria, Überraschungsbowle, Bier oder Wasser.
 
@@ -13,21 +13,38 @@ Nach dem Einbruch der Dunkelheit wird gegen 21 Uhr 45 der Film gestartet. Einige
 
 Das Programm sieht wie folgt aus:
 
-##  Samstag 2. Juni 2018
+##  Samstag 18. Mai 2019
 
-**La vida es silbar (Das Leben ist Pfeifen)**
+**I hired a contract killer (Vertrag mit meinem Killer)**
 
-Musik ab 20 Uhr:  **Roger Näf (Piano, Latin - Jazz)**
+Tragikkomödie von Aki Kaurismäki (1990) mit Jean-Pierre Léaud, Margi Clarke, Kenneth Colley
 
-## Samstag 30. Juni 2018
+Henri Boulanger hat kein Glück im Leben. Als man ihn nach 15 Jahren Dienst
+bei den Wasserwerken entlässt, beschliesst er, sich umzubringen. Seine Versuche in dieser Richtung scheitern jedoch kläglich, und er
+fühlt sich feige. So heuert Monsieur Boulanger einen Auftragskiller an, der ihm in den nächsten Tagen einen Besuch abstatten soll. Doch
+ausgerechnet jetzt verliebt er sich in die betörende Blumenverkäuferin Margaret ...
 
-**The Italian Job (Jagd auf Millionen)**
 
-Musik ab 20 Uhr: **Chris Glarner (E-Piano & Gesang, 70 er – Jahre – Pop)**
+Volksmusik Finnland/Balkan ab 20 Uhr:  **: Manuela Einsle-Vetterli & Lukas Wissler (Geige, Blöckflöte, Akkordeon)**
+
+## Samstag 15. Juni 2019
+
+**The Red Violin (Die rote Violine)**
+
+Episodenfilm von François Girard,  Kanada, 1998 | 125 Minuten  mit Carlo Cecchi, Jean-Luc Bideau, Greta Scacchi
+
+Ein Auktionator in Montreal versteigert verschiedene Streichinstrumente, u. a.
+die sogenannte rote Violine. Der Film zeigt Entstehung und Lebenslauf des besonderen Musikinstruments, welches vom italienischen 
+­Geigenbaumeister Nicolo Bussotti aus Cremona im Jahre 1681 erbaut worden ist. Als seine Frau bei der Geburt stirbt, mischt der
+tief erschütterte Mann das Blut seiner geliebten Frau in den Lack und färbt damit seine Violine – sein letztes Werk – rot. Der Film erzählt
+die über Jahrhunderte reichende wechselvolle, oft tragische Geschichte der Violine und deren Besitzern, die von ihr immer wieder in
+einen magischen Bann gezogen werden.
+
+Klassische Musik ab 20 Uhr: **Formationen des Glarner Kammerorchesters (Streichinstrumente)**
 
 
-## Samstag 25. August 2018
+## Samstag 10. August 2019
 
-**Incendies (Die Frau die singt)**
+**Weit (Die Geschichte von einem Weg um die Welt)**
 
-Musik ab 20 Uhr:  noch offen
+Volksmusik aus aller Welt ab 20 Uhr: **Felizitas Allgäuer (Geige), Michael Burtscher (Akkordeon u. Gesang), Andreas Habert (Flöten)**
