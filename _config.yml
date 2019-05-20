@@ -4,4 +4,5 @@ safe: true
 # destination: <the build dir>
 markdown: kramdown
 lsi: false
-baseurl: /RosaLuna
+# BaseUrl may not be RosaLuna or the images do not display correctly!
+baseurl: /
