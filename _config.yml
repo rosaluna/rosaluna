@@ -6,3 +6,5 @@ markdown: kramdown
 lsi: false
 # BaseUrl may not be RosaLuna or the images do not display correctly!
 baseurl: /
+plugins:
+  - jekyll-seo-tag

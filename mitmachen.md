@@ -15,6 +15,6 @@ Interessierte melden sich bei: Niklaus Giger, Mollis, Tel. 055 612 20 54, E-Mail
 
 Vor dem Film, zum Apéritif zwischen 20 und 21.30 Uhr, spielt jeweils eine Live-­Musik. Wir suchen daher immer wieder Musiker oder Musikgruppe, die Lust hätten, an einem Kino Rosa Luna Abend zu musizieren. Ihre Gage beträgt Fr. 400.–.
 
-Interessierte melden sich bei: Catherine Fritsche, Glarus, Tel. 055 640 13 09, E-Mail cafritsche@bluewin.ch
+Interessierte melden sich bei: Andreas Habert, Mollis, Tel. 055 612 53 84, E-Mail anderra@bluewin.ch
 
 ![Musiker](images/musiker.jpeg){:width="100%"}
