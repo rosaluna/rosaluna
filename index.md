@@ -45,6 +45,10 @@ Klassische Musik ab 20 Uhr: **Formationen des Glarner Kammerorchesters (Streichi
 
 ## Samstag 10. August 2019
 
-**Weit (Die Geschichte von einem Weg um die Welt)**
+**Weit - Die Geschichte von einem Weg um die Welt**
+
+Dokumentarfilm von Gwendolin Weisser und Patrick Allgaier | 2017 | 127 Minuten
+
+Das junge Paar, Gwendolin Weisser und Patrick Allgaier, reist – ohne je in ein Flugzeug zu steigen – rund um die Welt. Dreieinhalb Jahre und 50’000 km später treffen sie mit einem Sohn wieder zu Hause ein. Der Film besticht durch die Abenteuerlust seiner Protagonisten ebenso wie durch Aufnahmen aus weitabgelegenen Landstrichen. Was ursprünglich als kleine, familiäre Reisedokumentation geplant war, wird unerwartet zum Kino-Geheimtipp. Der Film zeigt eine Menschlichkeit, die über Grenzen und Nationen, Kulturen und Religionen hinweg existiert, die Hoffnung macht und uns ohne Wenn und Aber verbindet.
 
 Volksmusik aus aller Welt ab 20 Uhr: **Felizitas Allgäuer (Geige), Michael Burtscher (Akkordeon u. Gesang), Andreas Habert (Flöten)**
