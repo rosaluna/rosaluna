@@ -1,8 +1,13 @@
 # developers notice
 # https://help.github.com/articles/using-jekyll-with-pages
-# bundle exec jekyll serve
-# test your output at http://0.0.0.0:4000/project-name/
+# git checkout gh-pages
+# bundle exec jekyll serve --port 4040
+# test your output at http://0.0.0.0:4040
 # (after switching to the gh-pages
+# under nixos
+## nix-shell
+## bundle install
+## bundle exec  jekyll serve --port 4040
 
 Zum Konvertieren folgende Aufrufe gebraucht
 
