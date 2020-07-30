@@ -1,54 +1,49 @@
 ---
-title:            Programm 2019
+title:            Programm 2020
 layout: default
 ---
 
-<img  width="512" align='right' src='archiv/Flyer_2019.png' img>
+<img  width="512" align='right' src='archiv/Flyer_2020.png' img>
 
-Auch 2019 offerieren wir den Molliser drei gemütliche Abende.
+Wegen Corona offerieren wir den Molliser 2020 nur zwei gemütliche Abende und machen wenig Werbung, da wir maximal 50 Personen Einlass gewähren dürfen.
 
 Wir treffen uns sich ab 20 Uhr im Garten des Rosenhofs von Mollis. Musik begleitet uns in den Abend und zu allerlei Leckereien geniesst man ein Glas Wein, Sangria, Überraschungsbowle, Bier oder Wasser.
 
-Nach dem Einbruch der Dunkelheit wird gegen 21 Uhr 45 der Film gestartet. Einige Leute nehmen zur Sicherheit ihre Wolldecke selber mit. Bei schlechtem Wetter können wir in die Kirche ausweichen. Der Eintritt kostet Fr. 12.-.
+Nach dem Einbruch der Dunkelheit wird gegen 21 Uhr 45 der Film gestartet. Einige Leute nehmen zur Sicherheit ihre Wolldecke selber mit. Bei schlechtem Wetter können wir in die MZH ausweichen. Der Eintritt kostet Fr. 12.-.
 
 Das Programm sieht wie folgt aus:
 
-##  Samstag 18. Mai 2019
+##  Samstag 15. August 2020
 
-**I hired a contract killer (Vertrag mit meinem Killer)**
-
-Tragikkomödie von Aki Kaurismäki (1990) mit Jean-Pierre Léaud, Margi Clarke, Kenneth Colley
-
-Henri Boulanger hat kein Glück im Leben. Als man ihn nach 15 Jahren Dienst
-bei den Wasserwerken entlässt, beschliesst er, sich umzubringen. Seine Versuche in dieser Richtung scheitern jedoch kläglich, und er
-fühlt sich feige. So heuert Monsieur Boulanger einen Auftragskiller an, der ihm in den nächsten Tagen einen Besuch abstatten soll. Doch
-ausgerechnet jetzt verliebt er sich in die betörende Blumenverkäuferin Margaret ...
+**The full monty (Ganz oder gar nicht)**
 
 
-Volksmusik Finnland/Balkan ab 20 Uhr:  **: Manuela Einsle-Vetterli & Lukas Wissler (Geige, Blöckflöte, Akkordeon)**
+Britische Filmkomödie von Peter Cattaneo, GB, 1997 | 90 Minuten mit Robert Carlyle, Mark Addy, Hugo Speer
 
-## Samstag 15. Juni 2019
-
-**The Red Violin (Die rote Violine)**
-
-Episodenfilm von François Girard,  Kanada, 1998 | 125 Minuten  mit Carlo Cecchi, Jean-Luc Bideau, Greta Scacchi
-
-Ein Auktionator in Montreal versteigert verschiedene Streichinstrumente, u. a.
-die sogenannte rote Violine. Der Film zeigt Entstehung und Lebenslauf des besonderen Musikinstruments, welches vom italienischen 
-­Geigenbaumeister Nicolo Bussotti aus Cremona im Jahre 1681 erbaut worden ist. Als seine Frau bei der Geburt stirbt, mischt der
-tief erschütterte Mann das Blut seiner geliebten Frau in den Lack und färbt damit seine Violine – sein letztes Werk – rot. Der Film erzählt
-die über Jahrhunderte reichende wechselvolle, oft tragische Geschichte der Violine und deren Besitzern, die von ihr immer wieder in
-einen magischen Bann gezogen werden.
-
-Klassische Musik ab 20 Uhr: **Formationen des Glarner Kammerorchesters (Streichinstrumente)**
+Im nordenglischen Sheffield blühte in den 1970er Jahren die Stahlindustrie. 25 Jahre später
+rosten die Stahlwerke vor sich hin. Die arbeitslosen Gaz und Dave versuchen mit dem Stehlen von alten Stahlträgern Geld zu verdienen.
+Als Gaz einmal seine Ex-Frau vor einer Chippendale-Show Schlange stehen sieht, kommt er auf die Idee, selber eine solche Tanzshow zu
+veranstalten. Er erhofft sich, damit die Unterhaltskosten seines Sohnes bezahlen zu können. Während die Männer für die Show üben,
+wachsen die Zweifel, ob sie damit wirklich Geld verdienen können. Dazu kommen Unsicherheiten über das eigene Äußere (Dave beispielsweise ist übergewichtig). Und Gaz kündigt immer wieder an, dass ihre Show – anders als die der Chippendales – «the full monty», «absolut
+alles, ganz oder gar nicht» sein wird: dass sich also die Männer bei ihrem Striptease ganz ausziehen werden.
 
 
-## Samstag 10. August 2019
+Musik ab 20 Uhr:  **Roman Staubli (keyboard), Roman Ziegler (drums), Sven Keller (gitarre), Yannick Keller (bass), Matthias Neeracher (trompete), Mathis Sulzer (saxophon), Helena Golling (vocal)**
 
-**Weit - Die Geschichte von einem Weg um die Welt**
+## Samstag 12. September 2020
 
-Dokumentarfilm von Gwendolin Weisser und Patrick Allgaier | 2017 | 127 Minuten
+**Ein Licht zwischen Wolken (Albanisches Filmdrama)**
 
-Das junge Paar, Gwendolin Weisser und Patrick Allgaier, reist – ohne je in ein Flugzeug zu steigen – rund um die Welt. Dreieinhalb Jahre und 50’000 km später treffen sie mit einem Sohn wieder zu Hause ein. Der Film besticht durch die Abenteuerlust seiner Protagonisten ebenso wie durch Aufnahmen aus weitabgelegenen Landstrichen. Was ursprünglich als kleine, familiäre Reisedokumentation geplant war, wird unerwartet zum Kino-Geheimtipp. Der Film zeigt eine Menschlichkeit, die über Grenzen und Nationen, Kulturen und Religionen hinweg existiert, die Hoffnung macht und uns ohne Wenn und Aber verbindet.
 
-Volksmusik aus aller Welt ab 20 Uhr: **Felizitas Allgäuer (Geige), Michael Burtscher (Akkordeon u. Gesang), Andreas Habert (Flöten)**
+Albanisches Filmdrama von Robert Budina. Albanien, I, GB | 2018  84 Minuten mit Arben Bajraktaraj, Esela Pysqyli, Irena Cahani
+
+Der Hirt Besnik hütet die Ziegen eines albanischen Bergdorfes, in dem Muslime und
+Christen leben. Er ist gläubiger Muslim. Sein Vater ist Kommunist und verhinderte gewaltsam, dass Besnik ein Mädchen aus einer Familie,
+die nicht in das kommunistische Raster seines Vaters passte, heiraten konnte. Seitdem hat Besnik psychische Probleme und gilt als behindert. Die Schulkinder lieben ihn, weil er mit ihnen Fußball spielt. Besniks katholische Mutter starb aber früh. Sein Bruder emigrierte mit
+seiner Familie nach Griechenland und nahm dort den griechisch-orthodoxen Glauben an, um besser anerkannt zu werden. Seine Schwester lebt als gläubige Muslimin mit der Familie in Albanien. Nur Besnik bleibt im Dorf und pflegt seinen todkranken Vater aufopferungsvoll.
+Nach einem intensiven Gebet auf der Weide hat Besnik eine Eingebung, welche schlussendlich zur gemeinsamen Nutzung der Moschee
+durch Muslime und Katholiken führt. Nach Vaters Tod versucht Besnik seine verschieden gläubigen Geschwister an einen Tisch zu bringen.
+
+Musik ab 20 Uhr: **Désirée Senn (Gesang, Geige), Matthias Siegrist (Gesang, Gitarre)**
+
+

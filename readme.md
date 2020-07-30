@@ -20,11 +20,11 @@ convert Flyer_2000.pdf Flyer_2000.png
 
 * Mehrere PDF ->
 pdfunite eins.pdf zwei.pdf ausgabe.pdf
-pdfunite Rosa_Luna_2019_vorne.pdf Rosa_Luna_2019_hinten.pdf Flyer_2019.pdf
+pdfunite Rosa_Luna_2020_vorne.pdf Rosa_Luna_2020_hinten.pdf Flyer_2020.pdf
 
 
 convert -crop 50%x+0+0 Flyer_2007.pdf Flyer_2007.png
 
 * Erste Seite als PNG aus dem PDF extrahieren:
 
-    pdfseparate -f 1 -l 1 Flyer_2019.pdf Flyer_2019-1.pdf; convert Flyer_2019-1.pdf Flyer_2019.png
+    pdfseparate -f 1 -l 1 Flyer_2020.pdf Flyer_2020-1.pdf; convert Flyer_2020-1.pdf Flyer_2020.png

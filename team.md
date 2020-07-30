@@ -19,3 +19,7 @@ Das Kino Rosa Luna findet statt, weil sich folgende Leute dafür begeistern konn
 * Erika Baumgartner
 * Gyong-Sug Gim Giger
 * Niklaus Giger Gim
+* Barbara Meili
+* Nina Lang
+* Sämi Aebli
+* Fabienn Bär
