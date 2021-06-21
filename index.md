@@ -1,11 +1,11 @@
 ---
-title:            Programm 2020
+title:            Programm 2021
 layout: default
 ---
 
 <img  width="512" align='right' src='archiv/Flyer_2020.png' img>
 
-Wegen Corona offerieren wir den Molliser 2020 nur zwei gemütliche Abende und machen wenig Werbung, da wir maximal 50 Personen Einlass gewähren dürfen.
+Wegen Corona offerieren wir den Molliser auch 2021 nur zwei gemütliche Abende und machen wenig Werbung, da es nicht klar ist, wieviele Leute teilnehmen dürfen.
 
 Wir treffen uns sich ab 20 Uhr im Garten des Rosenhofs von Mollis. Musik begleitet uns in den Abend und zu allerlei Leckereien geniesst man ein Glas Wein, Sangria, Überraschungsbowle, Bier oder Wasser.
 
@@ -13,37 +13,36 @@ Nach dem Einbruch der Dunkelheit wird gegen 21 Uhr 45 der Film gestartet. Einige
 
 Das Programm sieht wie folgt aus:
 
-##  Samstag 15. August 2020
+##  Samstag 21. August 2021
 
-**The full monty (Ganz oder gar nicht)**
+**Parasite**
 
+[comment]: Rechteinhaber Filmcoopi
 
-Britische Filmkomödie von Peter Cattaneo, GB, 1997 | 90 Minuten mit Robert Carlyle, Mark Addy, Hugo Speer
+Südkoreanischer Spielfilm von Bong Joon-ho, 2019 | 132 Minuten mit Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong
 
-Im nordenglischen Sheffield blühte in den 1970er Jahren die Stahlindustrie. 25 Jahre später
-rosten die Stahlwerke vor sich hin. Die arbeitslosen Gaz und Dave versuchen mit dem Stehlen von alten Stahlträgern Geld zu verdienen.
-Als Gaz einmal seine Ex-Frau vor einer Chippendale-Show Schlange stehen sieht, kommt er auf die Idee, selber eine solche Tanzshow zu
-veranstalten. Er erhofft sich, damit die Unterhaltskosten seines Sohnes bezahlen zu können. Während die Männer für die Show üben,
-wachsen die Zweifel, ob sie damit wirklich Geld verdienen können. Dazu kommen Unsicherheiten über das eigene Äußere (Dave beispielsweise ist übergewichtig). Und Gaz kündigt immer wieder an, dass ihre Show – anders als die der Chippendales – «the full monty», «absolut
-alles, ganz oder gar nicht» sein wird: dass sich also die Männer bei ihrem Striptease ganz ausziehen werden.
+Er dreht sich um den Sohn einer armen Familie, der einen Job als Privatlehrer bei einer reichen Familie bekommt und mit der Zeit seiner Familie ebenfalls Stellen in dem luxuriösen Anwesen verschafft. Der Film ist eine Mischung aus Drama, Thriller, Parabel, Farce, Satire und Groteske und wurde als Kritik an den südkoreanischen und westlichen Lebens-, Arbeits- und Konsumverhältnissen verstanden.
 
+Musik ab 20 Uhr:  **Traditionelle koreanische Sanduhr-Trommeln und moderne Lieder**
 
-Musik ab 20 Uhr:  **Roman Staubli (keyboard), Roman Ziegler (drums), Sven Keller (gitarre), Yannick Keller (bass), Matthias Neeracher (trompete), Mathis Sulzer (saxophon), Helena Golling (vocal)**
+Eventuell vorher noch ein Kurzfilm (10 Minuten) Yori https://vimeo.com/320611463, Preisgekrönter Kurzfilm über die Schwierigkeiten im koreanischen Exil in der Schweiz
 
-## Samstag 12. September 2020
+## Samstag 11. September 2021
 
-**Ein Licht zwischen Wolken (Albanisches Filmdrama)**
+**Die Wutprobe**
+[comment]: Verleiher Columbia TriStar Film GmbH, Berlin, Hersteller Revolution Studios gemäss https://www.spio-fsk.de/asp/filestream.asp?dir=karte&file=0304%5C93871K%2Epdf
+[comment]:MPLC
 
+US-amerikanische Filmkomödie von Peter Segal, GB | 2003  84 Minuten mit Jack Nicholson, Adam Sandler
 
-Albanisches Filmdrama von Robert Budina. Albanien, I, GB | 2018  84 Minuten mit Arben Bajraktaraj, Esela Pysqyli, Irena Cahani
+Dave Buznik, ein Kleidungsdesigner für übergewichtige Hauskatzen, ist zurückhaltend und friedfertig, und doch eskaliert die Situation bei einer harmlosen Frage nach Kopfhörern an eine Flugbegleiterin während eines Fluges. Der Vorfall hat Folgen: Dave kommt vor Gericht und wird wegen Körperverletzung zu einer Aggressionsbewältigungstherapie bei Dr. Buddy Rydell verurteilt. Der Doktor war Daves Sitznachbar im Flugzeug und war nicht ganz schuldlos an dem Vorfall, doch er besteht darauf, dass Dave zumindest eine Therapiesitzung mitmacht.
 
-Der Hirt Besnik hütet die Ziegen eines albanischen Bergdorfes, in dem Muslime und
-Christen leben. Er ist gläubiger Muslim. Sein Vater ist Kommunist und verhinderte gewaltsam, dass Besnik ein Mädchen aus einer Familie,
-die nicht in das kommunistische Raster seines Vaters passte, heiraten konnte. Seitdem hat Besnik psychische Probleme und gilt als behindert. Die Schulkinder lieben ihn, weil er mit ihnen Fußball spielt. Besniks katholische Mutter starb aber früh. Sein Bruder emigrierte mit
-seiner Familie nach Griechenland und nahm dort den griechisch-orthodoxen Glauben an, um besser anerkannt zu werden. Seine Schwester lebt als gläubige Muslimin mit der Familie in Albanien. Nur Besnik bleibt im Dorf und pflegt seinen todkranken Vater aufopferungsvoll.
-Nach einem intensiven Gebet auf der Weide hat Besnik eine Eingebung, welche schlussendlich zur gemeinsamen Nutzung der Moschee
-durch Muslime und Katholiken führt. Nach Vaters Tod versucht Besnik seine verschieden gläubigen Geschwister an einen Tisch zu bringen.
+In seiner neuen Therapiegruppe fühlt sich Dave fehl am Platze, doch er hat keine Wahl. Dr. Rydell teilt ihm einen Aggressions-Verbündeten zu: Chuck, ebenfalls ein Teilnehmer in seiner Anti-Aggressions-Gruppe. Schon in der ersten Kneipe eskaliert durch Chuck erneut die Situation und Dave schlägt aus Versehen einer Kellnerin auf die Nase. Die Richterin ist über den Wiederholungstäter nicht erfreut. Als sie Dave zu einer einjährigen Gefängnisstrafe verurteilen will, kann Rydell dies noch verhindern und Dave wird stattdessen zu einer 30-tägigen Intensivtherapie mit ihm verpflichtet. 
 
-Musik ab 20 Uhr: **Désirée Senn (Gesang, Geige), Matthias Siegrist (Gesang, Gitarre)**
+Oder gemäss https://www.filmdienst.de/film/details/520351/die-wutprobe
+
+Ein seit seiner Jugend unter einer Kuss-Phobie leidender sanftmütiger Angestellter kommt seit Jahren weder privat noch beruflich vom Fleck. Als er durch ein Missverständnis zu einem Anti-Aggressionstraining verurteilt wird und unter die Fittiche eines durchgeknallten Psychologen gerät, findet er durch dessen merkwürdige Methoden schließlich doch noch sein Glück. Eine ganz auf Jack Nicholson und Adam Sandler zugeschnittene Komödie, deren pubertäre Späße nur selten wirklich witzig sind und unter den spezifischen Schwächen ihrer Darsteller leiden.
+
+Musik ab 20 Uhr: **Rochus Hobi**
 
 
