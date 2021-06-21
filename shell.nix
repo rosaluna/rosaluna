@@ -10,6 +10,7 @@ stdenv.mkDerivation {
     zlib
     libxslt
     pkgconfig
+    libiconv
   ];
 
   nativeBuildInputs = [

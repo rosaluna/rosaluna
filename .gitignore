@@ -1,3 +1,7 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+# For some unkown reason I cannot use ~/.bundle under Nixos
+vendor/
+.jekyll-cache/
+.bundle/
