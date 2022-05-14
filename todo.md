@@ -3,6 +3,10 @@ layout: default
 title: Denkzettel
 ---
 
+## Musik
+
+Fr. 300 für 1 bis 2 Musiker, Fr. 400 wenn mehr als 2
+
 ## Was jedes Jahr wieder neu gemacht werden soll
 
 * Organisatorisches zum voraus:

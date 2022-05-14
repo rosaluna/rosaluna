@@ -3,7 +3,7 @@ title:            Programm 2021
 layout: default
 ---
 
-<img  width="512" align='right' src='archiv/Flyer_2020.png' img>
+<img  width="512" align='right' src='archiv/Flyer_2022.png' img>
 
 Wir treffen uns sich ab 20 Uhr im Garten des Rosenhofs von Mollis. Musik begleitet uns in den Abend und zu allerlei Leckereien geniesst man ein Glas Wein, Sangria, Überraschungsbowle, Bier oder Wasser.
 
@@ -52,3 +52,5 @@ Musik ab 20 Uhr:  **Traditionelle koreanische Sanduhr-Trommeln und moderne Liede
 [comment]:https://www.sfvasdf.ch/rsd/?movienr=0071.464 (Niemand) oder Disney (https://www.sfvasdf.ch/rsd/?movienr=1002.973) ? infoCH@disney.com
 
 The Kid, in Deutschland auch bekannt als Der Vagabund und das Kind, ist eine US-amerikanische Stummfilm-Tragikomödie von Charlie Chaplin aus dem Jahre 1921. Die Hauptrollen übernehmen Charlie Chaplin, Edna Purviance sowie Jackie Coogan, der durch diesen Film zum Kinderstar wurde. Charles Chaplins erster Langfilm als Regisseur handelt von einem Tramp, der ein kleines Kind findet und es aufzieht. Durch äußere Umstände gerät die innige Beziehung zwischen den beiden allerdings in Gefahr. Der Film verknüpft Komödie mit Sozialdrama, was zu dieser Zeit fast einmalig war. The Kid war ein großer Kassenerfolg seiner Zeit und zählt noch heute zu Chaplins berühmtesten Werken. 2011 wurde der Film ins National Film Registry aufgenommen. 
+
+Musik ab 20 Uhr:  **Jugendchor**
